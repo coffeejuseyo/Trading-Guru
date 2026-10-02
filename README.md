@@ -69,6 +69,7 @@
 
 | 文件 | 內容 |
 |---|---|
+| [lessons/](lessons/README.md) | 📘 **講義**：每個單元的完整教材（開場故事、正文、示範講稿、練習、測驗） |
 | [docs/CURRICULUM.md](docs/CURRICULUM.md) | 📚 **完整課綱**：每個階段的單元、時數、生活比喻、作業、費曼檢核題 |
 | [docs/SCHEDULE.md](docs/SCHEDULE.md) | 🗓️ **時程規劃**：三種節奏的逐週進度、里程碑、無程式路線 |
 | [docs/RESOURCES.md](docs/RESOURCES.md) | 📖 **學習資源**：書籍、免費課程、影片、工具、資料來源（依階段分類） |
