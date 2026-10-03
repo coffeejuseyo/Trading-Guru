@@ -8,8 +8,8 @@
 | Phase 0 起跑線：心態與學習方法 | [phase-00/](phase-00/README.md) | ✅ 完成 |
 | Phase 1 市場地圖：金融市場與商品 | [phase-01/](phase-01/README.md) | ✅ 完成 |
 | Phase 2 遊戲規則：下單、成本與槓桿 | [phase-02/](phase-02/README.md) | ✅ 完成 |
-| Phase 3 數字的語言：機率、統計與交易數學 | — | ⏳ 撰寫中 |
-| Phase 4 看懂價格：技術分析 | — | ⏳ |
+| Phase 3 數字的語言：機率、統計與交易數學 | [phase-03/](phase-03/README.md) | ✅ 完成 |
+| Phase 4 看懂價格：技術分析 | — | ⏳ 撰寫中 |
 | Phase 5 看懂價值：基本面與總體經濟 | — | ⏳ |
 | Phase 6 活下來最重要：風險與資金管理 | — | ⏳ |
 | Phase 7 管好自己：交易心理 | — | ⏳ |
