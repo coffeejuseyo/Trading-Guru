@@ -1,6 +1,6 @@
 # Phase 1｜總複習與自我測驗
 
-> ⏱️ 約 2–3 小時｜[← Phase 1 目錄](README.md)｜[下一階段：Phase 2 遊戲規則 →](../../docs/CURRICULUM.md#phase-2遊戲規則下單成本與槓桿25-小時)
+> ⏱️ 約 2–3 小時｜[← Phase 1 目錄](README.md)｜[下一階段：Phase 2 遊戲規則 →](../phase-02/README.md)
 
 > 📌 **作答方式**：先**不看講義、不看答案**，寫下或說出答案，再打開答案對照。
 > 🎯 **通過標準**：Part A + B 答對 80% 以上、Part C 全對、Part D 四題都能順利講完，並完成 Part E 比較表。
