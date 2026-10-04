@@ -12,8 +12,8 @@
 | Phase 4 看懂價格：技術分析 | [phase-04/](phase-04/README.md) | ✅ 完成 |
 | Phase 5 看懂價值：基本面與總體經濟 | [phase-05/](phase-05/README.md) | ✅ 完成 |
 | Phase 6 活下來最重要：風險與資金管理 | [phase-06/](phase-06/README.md) | ✅ 完成 |
-| Phase 7 管好自己：交易心理 | — | ⏳ 撰寫中 |
-| Phase 8 策略工具箱：主流交易策略 | — | ⏳ |
+| Phase 7 管好自己：交易心理 | [phase-07/](phase-07/README.md) | ✅ 完成 |
+| Phase 8 策略工具箱：主流交易策略 | — | ⏳ 撰寫中 |
 | Phase 9 給電腦下指令：Python 與資料處理 | — | ⏳ |
 | Phase 10 時光機實驗室：回測 | — | ⏳ |
 | Phase 11 進階：投資組合、優化與量化研究 | — | ⏳ |
