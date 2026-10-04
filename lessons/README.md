@@ -10,8 +10,8 @@
 | Phase 2 遊戲規則：下單、成本與槓桿 | [phase-02/](phase-02/README.md) | ✅ 完成 |
 | Phase 3 數字的語言：機率、統計與交易數學 | [phase-03/](phase-03/README.md) | ✅ 完成 |
 | Phase 4 看懂價格：技術分析 | [phase-04/](phase-04/README.md) | ✅ 完成 |
-| Phase 5 看懂價值：基本面與總體經濟 | — | ⏳ 撰寫中 |
-| Phase 6 活下來最重要：風險與資金管理 | — | ⏳ |
+| Phase 5 看懂價值：基本面與總體經濟 | [phase-05/](phase-05/README.md) | ✅ 完成 |
+| Phase 6 活下來最重要：風險與資金管理 | — | ⏳ 撰寫中 |
 | Phase 7 管好自己：交易心理 | — | ⏳ |
 | Phase 8 策略工具箱：主流交易策略 | — | ⏳ |
 | Phase 9 給電腦下指令：Python 與資料處理 | — | ⏳ |
