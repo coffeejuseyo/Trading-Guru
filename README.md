@@ -75,7 +75,7 @@
 | [docs/RESOURCES.md](docs/RESOURCES.md) | 📖 **學習資源**：書籍、免費課程、影片、工具、資料來源（依階段分類） |
 | [docs/GLOSSARY.md](docs/GLOSSARY.md) | 🗣️ **白話詞彙表**：每個術語都附一句生活比喻，拿來跟別人解釋用 |
 | [docs/PROGRESS.md](docs/PROGRESS.md) | ✅ **進度追蹤表**：打勾記錄你學到哪裡 |
-| [templates/](templates/) | 📝 **範本**：費曼檢核表、交易日誌、回測報告、交易計畫書、策略規格書 |
+| [templates/](templates/) | 📝 **範本**：費曼檢核表、交易日誌、回測報告、交易計畫書、策略規格書、研究日誌 |
 
 ---
 
