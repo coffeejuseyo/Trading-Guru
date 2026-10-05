@@ -15,8 +15,8 @@
 | Phase 7 管好自己：交易心理 | [phase-07/](phase-07/README.md) | ✅ 完成 |
 | Phase 8 策略工具箱：主流交易策略 | [phase-08/](phase-08/README.md) | ✅ 完成 |
 | Phase 9 給電腦下指令：Python 與資料處理 | [phase-09/](phase-09/README.md) | ✅ 完成 |
-| Phase 10 時光機實驗室：回測 | — | ⏳ 撰寫中 |
-| Phase 11 進階：投資組合、優化與量化研究 | — | ⏳ |
+| Phase 10 時光機實驗室：回測 | [phase-10/](phase-10/README.md) | ✅ 完成 |
+| Phase 11 進階：投資組合、優化與量化研究 | — | ⏳ 撰寫中 |
 | Phase 12 上場：模擬交易到小額實盤 | — | ⏳ |
 | Phase 13 畢業專題：把它教給別人 | — | ⏳ |
 
