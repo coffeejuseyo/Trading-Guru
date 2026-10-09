@@ -21,3 +21,5 @@
 | Phase 13 畢業專題：把它教給別人 | [phase-13/](phase-13/README.md) | ✅ 完成 |
 
 > 課綱與時數請見 [docs/CURRICULUM.md](../docs/CURRICULUM.md)。
+>
+> 🎮 每個階段都有搭配的模擬交易任務，見 [模擬交易路線圖](../docs/SIMULATION.md)；練習工具：[模擬交易練習器](../tools/trading-simulator/README.md)。
