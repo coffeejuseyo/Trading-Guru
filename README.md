@@ -74,6 +74,8 @@
 | [docs/SCHEDULE.md](docs/SCHEDULE.md) | 🗓️ **時程規劃**：三種節奏的逐週進度、里程碑、無程式路線 |
 | [docs/RESOURCES.md](docs/RESOURCES.md) | 📖 **學習資源**：書籍、免費課程、影片、工具、資料來源（依階段分類） |
 | [docs/GLOSSARY.md](docs/GLOSSARY.md) | 🗣️ **白話詞彙表**：每個術語都附一句生活比喻，拿來跟別人解釋用 |
+| [docs/SIMULATION.md](docs/SIMULATION.md) | 🎮 **模擬交易路線圖**：從 Phase 2 開始邊學邊練的六個關卡 |
+| [tools/trading-simulator](tools/trading-simulator/README.md) | 🕹️ **模擬交易練習器**：瀏覽器打開就能用，逐根 K 線練習下單、停損與寫日誌 |
 | [docs/PROGRESS.md](docs/PROGRESS.md) | ✅ **進度追蹤表**：打勾記錄你學到哪裡 |
 | [templates/](templates/) | 📝 **範本**：費曼檢核表、交易日誌、回測報告、交易計畫書、策略規格書、研究日誌、每月檢討報告、教學紀錄、策略研究報告 |
 
@@ -103,5 +105,5 @@
 - ✅ 能寫出一份完整的**交易計畫書**
 - ✅ 能用 Python 抓資料、寫策略、做回測，並看懂績效報告
 - ✅ 能辨認回測裡的陷阱（前視偏差、倖存者偏差、過度擬合）
-- ✅ 完成至少 3 個月的模擬交易與交易日誌
+- ✅ 從 Phase 2 起邊學邊模擬，並完成至少 3 個月的正式模擬交易與交易日誌
 - ✅ **能用生活例子，把以上全部講給一個新手聽懂**
