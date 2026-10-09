@@ -115,7 +115,7 @@
 | 資源 🆓 | Quantopian Lectures（GitHub 上的封存版） | 經典量化課程講義，涵蓋回測陷阱 |
 | 書 ⭐📘 | Marcos López de Prado《Advances in Financial Machine Learning》 | 回測過度擬合、交叉驗證的權威（較難，可只讀相關章節） |
 | 論文 🆓 | Bailey, Borwein, López de Prado, Zhu〈The Probability of Backtest Overfitting〉 | 回測過度擬合的經典論文 |
-| 論文 🆓 | Harvey & Liu〈Backtesting〉/〈…and the Cross-Section of Expected Returns〉 | 多重檢定問題 |
+| 論文 🆓 | Harvey & Liu〈Backtesting〉；Harvey, Liu & Zhu〈…and the Cross-Section of Expected Returns〉 | 多重檢定問題 |
 
 ## Phase 11｜進階量化
 

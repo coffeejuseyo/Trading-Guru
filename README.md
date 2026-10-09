@@ -69,12 +69,13 @@
 
 | 文件 | 內容 |
 |---|---|
+| [lessons/](lessons/README.md) | 📘 **講義**：每個單元的完整教材（開場故事、正文、示範講稿、練習、測驗） |
 | [docs/CURRICULUM.md](docs/CURRICULUM.md) | 📚 **完整課綱**：每個階段的單元、時數、生活比喻、作業、費曼檢核題 |
 | [docs/SCHEDULE.md](docs/SCHEDULE.md) | 🗓️ **時程規劃**：三種節奏的逐週進度、里程碑、無程式路線 |
 | [docs/RESOURCES.md](docs/RESOURCES.md) | 📖 **學習資源**：書籍、免費課程、影片、工具、資料來源（依階段分類） |
 | [docs/GLOSSARY.md](docs/GLOSSARY.md) | 🗣️ **白話詞彙表**：每個術語都附一句生活比喻，拿來跟別人解釋用 |
 | [docs/PROGRESS.md](docs/PROGRESS.md) | ✅ **進度追蹤表**：打勾記錄你學到哪裡 |
-| [templates/](templates/) | 📝 **範本**：費曼檢核表、交易日誌、回測報告、交易計畫書 |
+| [templates/](templates/) | 📝 **範本**：費曼檢核表、交易日誌、回測報告、交易計畫書、策略規格書、研究日誌、每月檢討報告、教學紀錄、策略研究報告 |
 
 ---
 

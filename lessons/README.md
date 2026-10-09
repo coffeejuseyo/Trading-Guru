@@ -1,0 +1,23 @@
+# 📘 講義
+
+每個階段一個資料夾，每個單元一份講義。講義格式統一為：
+🎯 學完你會知道 → 📖 開場故事 → 🧠 正文 → 📌 重點整理 → 🗣️ 一分鐘講給朋友聽 → ❌ 常見誤解 → 🛠️ 練習 → ✅ 自我測驗
+
+| 階段 | 講義 | 狀態 |
+|---|---|---|
+| Phase 0 起跑線：心態與學習方法 | [phase-00/](phase-00/README.md) | ✅ 完成 |
+| Phase 1 市場地圖：金融市場與商品 | [phase-01/](phase-01/README.md) | ✅ 完成 |
+| Phase 2 遊戲規則：下單、成本與槓桿 | [phase-02/](phase-02/README.md) | ✅ 完成 |
+| Phase 3 數字的語言：機率、統計與交易數學 | [phase-03/](phase-03/README.md) | ✅ 完成 |
+| Phase 4 看懂價格：技術分析 | [phase-04/](phase-04/README.md) | ✅ 完成 |
+| Phase 5 看懂價值：基本面與總體經濟 | [phase-05/](phase-05/README.md) | ✅ 完成 |
+| Phase 6 活下來最重要：風險與資金管理 | [phase-06/](phase-06/README.md) | ✅ 完成 |
+| Phase 7 管好自己：交易心理 | [phase-07/](phase-07/README.md) | ✅ 完成 |
+| Phase 8 策略工具箱：主流交易策略 | [phase-08/](phase-08/README.md) | ✅ 完成 |
+| Phase 9 給電腦下指令：Python 與資料處理 | [phase-09/](phase-09/README.md) | ✅ 完成 |
+| Phase 10 時光機實驗室：回測 | [phase-10/](phase-10/README.md) | ✅ 完成 |
+| Phase 11 進階：投資組合、優化與量化研究 | [phase-11/](phase-11/README.md) | ✅ 完成 |
+| Phase 12 上場：模擬交易到小額實盤 | [phase-12/](phase-12/README.md) | ✅ 完成 |
+| Phase 13 畢業專題：把它教給別人 | [phase-13/](phase-13/README.md) | ✅ 完成 |
+
+> 課綱與時數請見 [docs/CURRICULUM.md](../docs/CURRICULUM.md)。
